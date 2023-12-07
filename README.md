@@ -1,6 +1,8 @@
 # Trabalho Embarcados
 ##Links
-[Trelo](https://trello.com/b/9SiMYrZ5/sistema-embarcados)
+
+###[Trello](https://trello.com/b/9SiMYrZ5/sistema-embarcados)
+###[Youtube](https://youtu.be/IjG5uTLUZd4)
 
 ##Como Rodar o Projeto
 
