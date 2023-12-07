@@ -1,10 +1,11 @@
 # Trabalho Embarcados
-##Links
+## Links
 
-###[Trello](https://trello.com/b/9SiMYrZ5/sistema-embarcados)
-###[Youtube](https://youtu.be/IjG5uTLUZd4)
+#### [Trello](https://trello.com/b/9SiMYrZ5/sistema-embarcados)
 
-##Como Rodar o Projeto
+#### [Youtube](https://youtu.be/IjG5uTLUZd4)
+
+## Como Rodar o Projeto
 
 1. Baixe o Servidor.py no Raspberry
 
